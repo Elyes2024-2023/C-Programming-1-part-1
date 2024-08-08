@@ -1,0 +1,14 @@
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\bin\Debug\net8.0\2.3-AirplaneApp.exe
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\bin\Debug\net8.0\2.3-AirplaneApp.deps.json
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\bin\Debug\net8.0\2.3-AirplaneApp.runtimeconfig.json
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\bin\Debug\net8.0\2.3-AirplaneApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\bin\Debug\net8.0\2.3-AirplaneApp.pdb
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.AssemblyInfoInputs.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.AssemblyInfo.cs
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.csproj.CoreCompileInputs.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\refint\2.3-AirplaneApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.pdb
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\2.3-AirplaneApp.genruntimeconfig.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.3-AirplaneApp\2.3-AirplaneApp\obj\Debug\net8.0\ref\2.3-AirplaneApp.dll

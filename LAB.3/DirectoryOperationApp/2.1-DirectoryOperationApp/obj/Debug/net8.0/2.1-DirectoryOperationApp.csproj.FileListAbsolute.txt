@@ -1,0 +1,14 @@
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\bin\Debug\net8.0\2.1-DirectoryOperationApp.exe
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\bin\Debug\net8.0\2.1-DirectoryOperationApp.deps.json
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\bin\Debug\net8.0\2.1-DirectoryOperationApp.runtimeconfig.json
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\bin\Debug\net8.0\2.1-DirectoryOperationApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\bin\Debug\net8.0\2.1-DirectoryOperationApp.pdb
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.AssemblyInfoInputs.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.AssemblyInfo.cs
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\refint\2.1-DirectoryOperationApp.dll
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.pdb
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\2.1-DirectoryOperationApp.genruntimeconfig.cache
+C:\Users\Bhavik PC\Desktop\Web Development\C#\2.1-DirectoryOperationApp\2.1-DirectoryOperationApp\obj\Debug\net8.0\ref\2.1-DirectoryOperationApp.dll

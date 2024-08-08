@@ -1,0 +1,35 @@
+Owner Name: Owner1
+Phone Number: 1234567891
+Address: Address1
+Animal Name: Max
+Species: Bird
+Age: 9
+
+Owner Name: Owner2
+Phone Number: 1234567892
+Address: Address2
+Animal Name: Bella
+Species: Cat
+Age: 7
+
+Owner Name: Owner3
+Phone Number: 1234567893
+Address: Address3
+Animal Name: Bella
+Species: Dog
+Age: 5
+
+Owner Name: Owner4
+Phone Number: 1234567894
+Address: Address4
+Animal Name: Max
+Species: Cat
+Age: 3
+
+Owner Name: Owner5
+Phone Number: 1234567895
+Address: Address5
+Animal Name: Cooper
+Species: Cat
+Age: 1
+

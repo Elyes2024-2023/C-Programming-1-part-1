@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\bin\Debug\TextApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\bin\Debug\TextApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\bin\Debug\TextApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\obj\Debug\TextApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\obj\Debug\TextApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\obj\Debug\TextApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\obj\Debug\TextApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\TextApp\obj\Debug\TextApp.pdb
